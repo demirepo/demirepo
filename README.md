@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Evgeny, front-end developer from Rostov-on-Don. 
+My passion is to catch on how things work and making them better.
+I'm currently looking for a job offer.
 
 <!--
 **demirepo/demirepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
