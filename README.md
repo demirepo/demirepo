@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Evgeny, front-end developer from Rostov-on-Don. 
-My passion is to catch on how things work and making them better.
+My passion is to catch on how things work and make them better.
 I'm currently looking for a job offer.
 
 <!--
