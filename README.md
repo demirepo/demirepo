@@ -1,7 +1,17 @@
 ### Hi there 👋
-I'm Evgeny, front-end developer from Rostov-on-Don. 
-My passion is to catch on how things work and make them better.
+I'm Evgeny, front-end developer from Rostov-on-Don.  
+My passion is to catch on how things work and make them better.  
 I'm currently looking for a job offer.
+
+### My main stack:
+- Javascript ES6+, Typescript
+- React + Redux Toolkit (including RTK Query)
+- CSS: SCSS, BEM, css-modules, styled-components, Material UI
+- Backend: Node, Express, PostgreSQL
+- Testing: Jest, Pappeteer
+
+
+
 
 <!--
 **demirepo/demirepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
